@@ -1,0 +1,17 @@
+.card audio {
+margin-left: -5px;
+width: 80%;
+}
+
+.card{
+    margin-left: -30px;
+}
+body{
+    background-color:pink;
+}
+h1{
+    color: white;
+    background-color: black;
+    font-style: italic;
+    text-align: center;
+}
